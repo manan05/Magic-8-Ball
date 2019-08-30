@@ -32,10 +32,13 @@ public class MainActivity extends AppCompatActivity {
         imgBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                while (true) {
                     int randomNumber;
                     Random rand = new Random();
                     randomNumber = rand.nextInt(answer.length);
                     tvAnswer.setText(answer[rand.nextInt(randomNumber)]);
+                    break;
+                }
             }
         });
     }

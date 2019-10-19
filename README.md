@@ -5,7 +5,7 @@ This is a simple application that works like the magic 8 ball. You ask the magic
 Sample Images :
 
 #### Opening Screen
-![](sample_images/Opening-Screen.png =100x50)
+![](sample_images/Opening-Screen.png =3x4)
 
 #### Positive Reply
 ![](sample_images/Positive-reply.png)

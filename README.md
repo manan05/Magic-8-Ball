@@ -4,4 +4,4 @@ This is a simple application that works like the magic 8 ball. You ask the magic
 
 Sample Images :
 
-![](sample_images/Opening-Screen.png "Opening Screen")
+![](sample_images/Opening-Screen.png?raw=true "Opening Screen")

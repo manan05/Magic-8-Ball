@@ -4,14 +4,14 @@ This is a simple application that works like the magic 8 ball. You ask the magic
 
 Sample Images :
 
-##### Opening Screen
-![](sample_images/Opening-Screen.png=250x250)
+#### Opening Screen
+![](sample_images/Opening-Screen.png width="300" height="400")
 
-##### Positive Reply
+#### Positive Reply
 ![](sample_images/Positive-reply.png)
 
-##### Negative Reply
+#### Negative Reply
 ![](sample_images/Negative-reply.png)
 
-##### Neutral Reply
+#### Neutral Reply
 ![](sample_images/Non-commital-reply.png)

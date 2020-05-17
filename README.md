@@ -2,7 +2,7 @@
 
 This is a simple application that works like the magic 8 ball. You ask the magic 8 ball something and it will give you a positive, negative or a neutral answer.
 
-Sample Images :
+### Sample Images :
 
 #### Opening Screen
 <img src="https://github.com/manan05/Magic-8-Ball/blob/master/sample_images/Opening-Screen.png" alt="Opening Screen" width="400" height="700">

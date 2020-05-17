@@ -5,13 +5,13 @@ This is a simple application that works like the magic 8 ball. You ask the magic
 Sample Images :
 
 #### Opening Screen
-![](sample_images/Opening-Screen.png)
+<img src="https://github.com/manan05/Magic-8-Ball/blob/master/sample_images/Opening-Screen.png" alt="Opening Screen" width="400" height="700">
 
 #### Positive Reply
-![](sample_images/Positive-reply.png)
+<img src="https://github.com/manan05/Magic-8-Ball/blob/master/sample_images/Positive-reply.png" alt="Positive Reply" width="400" height="700">
 
 #### Negative Reply
-![](sample_images/Negative-reply.png)
+<img src="https://github.com/manan05/Magic-8-Ball/blob/master/sample_images/Negative-reply.png" alt="Negative Reply" width="400" height="700">
 
 #### Neutral Reply
-![](sample_images/Non-commital-reply.png)
+<img src="https://github.com/manan05/Magic-8-Ball/blob/master/sample_images/Non-commital-reply.png" alt="Neutral Reply" width="400" height="700">
